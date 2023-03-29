@@ -12,6 +12,10 @@
 2. Verificação da conexão com o banco de dados PostgreSQL.
 3. Criação do arquivo `database.js` para gerenciar a conexão com o banco de dados.
 4. Criação do arquivo `index.js` para configurar um servidor básico com Express.
+5. Definição do modelo "Processo" e sincronização com o banco de dados.
+6. Implementação das rotas e controladores de movimentação, incluindo a lógica de criação, atualização, exclusão e consulta de movimentações.
+7. Adição e configuração do chance.js para geração de dados aleatórios durante o desenvolvimento e testes.
+8. Implementação de validação de entrada de dados e tratamento de erros nos controladores.
 
 ## Ideias e recursos futuros
 
